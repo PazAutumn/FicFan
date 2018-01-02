@@ -1,0 +1,32 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.info {
+	width: 100%;
+	height: auto;
+	background-color: #56BCD7;
+}
+
+.navbar {
+	background-color: purple;
+}
+
+.content {
+	padding-top: 10vh;
+}
+
+.categoria,.popular,.reciente {
+	border: 2px solid black;
+	margin-top: 20px;
+}
+
+.popular,.reciente {
+	margin-bottom: 20px;
+}
+
+.categoria {
+	height: 50vh;
+}
